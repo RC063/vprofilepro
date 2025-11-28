@@ -18,7 +18,7 @@ pipeline {alksndkadfhskjdhfkhsjdhfkjshjfkhsjkdhfskh
 //     stages{
         
 //         stage('BUILD'){
-//             steps {
+//             steps {jsdkfnskdfnkjsndfjksjkfksjdfjjksfkjskdjfklsjdkfahhahahahhahahaha
 //                 sh 'mvn clean install -DskipTests'
 //             }
 //             post {
